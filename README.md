@@ -1,4 +1,5 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/05c9bdec-3a22-4c01-bc42-23f2eb44d537)
+
 
 <!--
 **nitishgoswami-git/nitishgoswami-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
