@@ -14,23 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h2 align="center"> Hi 👋, I am Nitish Goswami</h2>
 <table style="border: 0px;">
   <tr>
-    <td style="padding-right: 20px;">
+    <td>
       <ul>
         <li>🔭 I’m currently working on building scalable backend systems using Node.js and Redis.</li>
         <li>🌱 I’m currently learning system design and advanced Docker/Kubernetes concepts.</li>
         <li>👯 I’m looking to collaborate on open-source projects involving web development and cloud infrastructure.</li>
-        <li>🤔 I’m looking for help with optimizing performance in distributed systems.</li>
         <li>💬 Ask me about JavaScript, Python, backend architecture, or Docker best practices.</li>
         <li>📫 How to reach me: <a href="mailto:itsgoswaminitish@gmail.com">itsgoswaminitish@gmail.com</a></li>
-        <li>😄 Pronouns: He/Him</li>
-        <li>⚡ Fun fact: I can debug faster with music playing in the background—especially lo-fi!</li>
       </ul>
     </td>
     <td>
-      <img src="1new2.png" alt="Profile Image" width="1000"/>
+      <img src="assets/1new2.png" alt="Profile Image" width="200"/>
     </td>
   </tr>
 </table>
@@ -42,8 +39,8 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=nitishgoswami-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
-![](https://nirzak-streak-stats.vercel.app/?user=nitishgoswami-git&theme=dark&hide_border=true)
-&nbsp; &nbsp; &nbsp;&nbsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitishgoswami-git&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=nitishgoswami-git&theme=transparent&hide_border=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitishgoswami-git&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 
 
 ## 🌐 Socials:
