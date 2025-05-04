@@ -13,49 +13,37 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%2C+I+am+Nitish+Goswami;Nice+To+See+You+Here" alt="Typing SVG" /></a></h2>
 -->
+
+
+
+
+
+<img align = "center" src = "assets/banner.png" width="100%" height="50" />
 <h2 align="center"> Hi 👋, I am Nitish Goswami</h2>
-<table style="border: 0px;">
-  <tr>
-    <td>
-      <ul>
-        <li>🔭 I’m currently working on building scalable backend systems using Node.js and Redis.</li>
-        <li>🌱 I’m currently learning system design and advanced Docker/Kubernetes concepts.</li>
-        <li>👯 I’m looking to collaborate on open-source projects involving web development and cloud infrastructure.</li>
-        <li>💬 Ask me about JavaScript, Python, backend architecture, or Docker best practices.</li>
-        <li>📫 How to reach me: <a href="mailto:itsgoswaminitish@gmail.com">itsgoswaminitish@gmail.com</a></li>
-      </ul>
-    </td>
-    <td>
-      <img src="assets/1new2.png" alt="Profile Image" width="200"/>
-    </td>
-  </tr>
-</table>
+<img align="right" src="assets/1new2.png" width="270" alt="Nitish Goswami" />
+<br>
+
+- 🔭 I’m currently working on scalable backend systems using Node.js and Redis.  
+- 🌱 Continuously expanding my knowledge in backend infrastructure.  
+- 👯 Looking to collaborate on open-source projects.  
+- 💬 Always happy to discuss backend architecture and related topics.  
+- 📫 Reach me at: [itsgoswaminitish@gmail.com](mailto:itsgoswaminitish@gmail.com)
+
+<br>
+
+<h3> 💻 Tech Stack: </h3>
+
+
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat-square&logo=jinja&logoColor=black) ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=flat-square&logo=Handlebars.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+
+<hr>
+<h3 align = "center"> 📊 GitHub Stats: </h3>
+<p>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nitishgoswami-git&theme=transparent&hide_border=true" />
+  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishgoswami-git&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&size=compact" />
+</p>
 
 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-# 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=nitishgoswami-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
-![](https://nirzak-streak-stats.vercel.app/?user=nitishgoswami-git&theme=transparent&hide_border=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitishgoswami-git&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsgoswaminitish@gmail.com) 
-
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nitishgoswami-git&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=nitishgoswami-git&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
