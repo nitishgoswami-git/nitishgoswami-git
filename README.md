@@ -14,16 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%2C+I+am+Nitish+Goswami;Nice+To+See+You+Here" alt="Typing SVG" /></a></h2>
+<img align = "center" src = "assets/banner.png" width="100%" height="50" />
+<h2 align="center"> Hi 👋, I am Nitish Goswami</h2>
 -->
 
 
 
 
 
-<img align = "center" src = "assets/banner.png" width="100%" height="50" />
-<h2 align="center"> Hi 👋, I am Nitish Goswami</h2>
+<img src = "https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&text=Hi%20👋,%20I%20am%20Nitish%20Goswami&textBg=false&fontAlign=50&section=header&reversal=false&fontSize=30" width="100%">
 <img align="right" src="assets/1new2.png" width="270" alt="Nitish Goswami" />
-<br>
+
 
 - 🔭 I’m currently working on scalable backend systems using Node.js and Redis.  
 - 🌱 Continuously expanding my knowledge in backend infrastructure.  
