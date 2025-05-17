@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 - 📫 Reach me at: [itsgoswaminitish@gmail.com](mailto:itsgoswaminitish@gmail.com)
 
 <br>
-
+🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishgoswami) 
+<br>
 <h3> 💻 Tech Stack: </h3>
 
 
