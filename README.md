@@ -1,56 +1,167 @@
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nitishgoswami-git&theme=github-compact)]
--->
-<!--
-**nitishgoswami-git/nitishgoswami-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8B5CF6,50:06B6D4,100:10B981&text=Nitish%20Goswami&fontSize=45&fontAlignY=35&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20|%20AI%20Integration%20Enthusiast&descAlignY=55&descSize=16&descColor=FFFFFF&animation=twinkling" width="100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%2C+I+am+Nitish+Goswami;Nice+To+See+You+Here" alt="Typing SVG" /></a></h2>
-<img align = "center" src = "assets/banner.png" width="100%" height="50" />
-<h2 align="center"> Hi 👋, I am Nitish Goswami</h2>
--->
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Integrating+AI+into+Apps+%F0%9F%A4%96;Building+Smart+Solutions+%E2%9A%A1;Automating+Workflows+%F0%9F%94%A7" alt="Typing SVG" />
+</h3>
 
+</div>
 
+---
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="25" height="25" /> About Me
 
+<img align="right" alt="3D Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<img src = "https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&text=Hi%20👋,%20I%20am%20Nitish%20Goswami&textBg=false&fontAlign=50&section=header&reversal=false&fontSize=30" width="100%">
-<img align="right" src="assets/1new2.png" width="270" alt="Nitish Goswami" />
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  role: string[];
+  currentlyLearning: string[];
+  techStack: {
+    ai: string[];
+    backend: string[];
+    frontend: string[];
+    cloud: string[];
+  };
+}
 
+const nitish: Developer = {
+  name: "Nitish Goswami",
+  location: "Guwahati, India 🇮🇳",
+  role: ["Full Stack Developer", "AI Integration Specialist", "Automation Enthusiast"],
+  currentlyLearning: [
+    "Integrating AI into Full Stack Applications",
+    "Building AI-Powered SaaS Solutions",
+    "Automating Complex Workflows with AI Agents"
+  ],
+  techStack: {
+    ai: ["LangChain", "LangGraph", "LangSmith", "Python"],
+    backend: ["Node.js", "Express", "Flask", "MongoDB"],
+    frontend: ["React", "JavaScript", "GSAP", "HTML5"],
+    cloud: ["AWS", "Docker", "Appwrite"]
+  }
+};
+```
 
-- 🔭 I’m currently working on scalable backend systems using Node.js and Redis.  
-- 🌱 Continuously expanding my knowledge in backend infrastructure.  
-- 👯 Looking to collaborate on open-source projects.  
-- 💬 Always happy to discuss backend architecture and related topics.  
-- 📫 Reach me at: [itsgoswaminitish@gmail.com](mailto:itsgoswaminitish@gmail.com)
+<br clear="right"/>
 
+---
+
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> Let's Connect
+
+<a href="https://linkedin.com/in/nitishgoswami/">
+  <img src="https://img.shields.io/badge/LinkedIn-%2306B6D4.svg?style=for-the-badge&logo=linkedin&logoColor=black" height="35" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:itsgoswaminitish@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/nitishgoswami-git">
+  <img src="https://img.shields.io/badge/GitHub-%2310B981.svg?style=for-the-badge&logo=github&logoColor=black" height="35" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="AI" width="20" height="20" /> AI & ML</h4>
+<img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>
 <br>
-🌐 Socials:
+<img src="https://img.shields.io/badge/LangChain-10B981?style=for-the-badge&logo=chainlink&logoColor=black" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/LangSmith-06B6D4?style=for-the-badge&logo=artificial-intelligence&logoColor=black" alt="LangSmith"/>
+</td>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishgoswami/) 
+<td align="center" width="25%">
+<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Backend" width="20" height="20" /> Backend</h4>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" width="120" alt="Backend"/>
 <br>
-<h3> 💻 Tech Stack: </h3>
+<img src="https://img.shields.io/badge/JWT-10B981?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=black" alt="JWT"/>
+<img src="https://img.shields.io/badge/REST-8B5CF6?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST"/>
+</td>
 
+<td align="center" width="25%">
+<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Frontend" width="20" height="20" /> Frontend</h4>
+<img src="https://skillicons.dev/icons?i=react,js,html,css" width="160" alt="Frontend"/>
+<br>
+<img src="https://img.shields.io/badge/GSAP-06B6D4?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
+</td>
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) [![React](https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)  [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)](https://greensock.com/gsap/)
- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat-square&logo=jinja&logoColor=black) ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=flat-square&logo=Handlebars.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) [![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white)](https://appwrite.io)
+<td align="center" width="25%">
+<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="20" height="20" /> DevOps</h4>
+<img src="https://skillicons.dev/icons?i=aws,docker,mongodb,mysql" width="160" alt="DevOps"/>
+<br>
+<img src="https://img.shields.io/badge/Appwrite-8B5CF6?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite"/>
+</td>
+</tr>
+</table>
 
+</div>
 
-<hr>
-<h3 align = "center"> 📊 GitHub Stats: </h3>
-<p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nitishgoswami-git&theme=transparent&hide_border=true" />
-  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishgoswami-git&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&size=compact" />
-</p>
+---
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> GitHub Stats
 
+<div align="center">
+  <img width="49%" height="170" src="https://nirzak-streak-stats.vercel.app/?user=nitishgoswami-git&theme=radical&hide_border=true&background=0D1117&ring=10B981&fire=8B5CF6&currStreakLabel=06B6D4&sideLabels=10B981&border_radius=10&stroke=06B6D4" alt="GitHub Streak"/>
+  
+</div>
 
+<div align="center">
+  <img width="49%" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nitishgoswami-git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=06B6D4&border_radius=10" alt="Top Languages"/>
+  <img width="49%" height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=nitishgoswami-git&theme=react-dark&hide_border=true&bg_color=0D1117&color=10B981&line=8B5CF6&point=06B6D4&area=true&area_color=10B981&border_radius=10&height=170" alt="Activity Graph"/>
+</div>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Current Mission
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#10B981','primaryTextColor':'#000','primaryBorderColor':'#8B5CF6','lineColor':'#06B6D4','secondaryColor':'#1a1b27','tertiaryColor':'#0D1117','edgeLabelBackground':'#0D1117','nodeTextColor':'#fff'}}}%%
+graph LR
+    A[💻 Full Stack Dev] -->|Integrate| B[🤖 AI Solutions]
+    B -->|Build| C[🚀 AI SaaS Products]
+    C -->|Automate| D[⚡ Task Automation]
+    D -->|Optimize| E[📊 Workflow Efficiency]
+    E -->|Scale| F[☁️ Production Ready]
+    F -->|Impact| G[🌟 Real-World Solutions]
+    
+    style A fill:#10B981,stroke:#8B5CF6,stroke-width:3px,color:#000
+    style B fill:#1a1b27,stroke:#10B981,stroke-width:2px
+    style C fill:#1a1b27,stroke:#8B5CF6,stroke-width:2px
+    style D fill:#1a1b27,stroke:#06B6D4,stroke-width:2px
+    style E fill:#1a1b27,stroke:#10B981,stroke-width:2px
+    style F fill:#1a1b27,stroke:#8B5CF6,stroke-width:2px
+    style G fill:#8B5CF6,stroke:#10B981,stroke-width:3px,color:#fff
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Idea" width="25" height="25" /> ***"Transforming full stack development with AI—automating workflows, simplifying complexity, and building smarter solutions"***
+
+![Profile Views](https://komarev.com/ghpvc/?username=nitishgoswami-git&color=10B981&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:8B5CF6,50:06B6D4,100:10B981&section=footer&animation=twinkling" width="100%">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> ***If you like what you see, drop a star on my repositories!***
+
+</div>
