@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:238636,50:58a6ff,100:8957e5&text=Nitish%20Goswami&fontSize=45&fontAlignY=35&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20|%20AI%20Integration%20Enthusiast&descAlignY=55&descSize=16&descColor=c9d1d9&animation=twinkling" width="100%">
 
 <h3>
-  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Integrating+AI+into+Apps+%F0%9F%A4%96;Building+Smart+Solutions+%E2%9A%A1;Automating+Workflows+%F0%9F%94%A7" alt="Typing SVG" /> -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Integrating+AI+into+Apps+%F0%9F%A4%96;Building+Smart+Solutions+%E2%9A%A1;Automating+Workflows+%F0%9F%94%A7" alt="Typing SVG" />
 
-## 🎉 Happy New Year 2026! 🚀  
+<!-- ## 🎉 Happy New Year 2026! 🚀  
 
 Wishing everyone a year full of **clean commits**, **successful deploys**, and **zero merge conflicts**!  
 May your code run smoothly, your ideas flow freely, and your projects shine brighter than ever! ✨  
 
-**Let’s build something amazing in 2026! 💻🔥**  
+**Let’s build something amazing in 2026! 💻🔥**  -->
 </h3>
 
 </div>
